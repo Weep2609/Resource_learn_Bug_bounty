@@ -17,6 +17,9 @@
 
 
 ## 3. Books (python)
+- Python Crash Course 2: [PDF](https://gateway.ipfs.io/ipfs/bafykbzacedwn7ynmjac2ahvscbpokjfzqeagvaz3zrl6aivgte326eeb7jgb4?filename=Eric%20Matthes%20-%20Python%20Crash%20Course_%20A%20Hands-On%2C%20Project-Based%20Introduction%20to%20Programming-No%20Starch%20Press%20%282019%29.pdf)
+- Automate the Boring Stuff with Python: [PDF](https://gateway.ipfs.io/ipfs/bafykbzacebmpik3k5xtq4pxgigqi7m235b6y62tvenz5s3skrmyvyhzed4flo?filename=Al%20Sweigart%20-%20Automate%20The%20Boring%20Stuff%20With%20Python_%20Practical%20Programming%20For%20Total%20Beginners-No%20Starch%20Press%20%282019%29.pdf)
+- Black hat python 2: [PDF](https://cloudflare-ipfs.com/ipfs/bafykbzaced7noleolcp5evg7vy4x3auydfgahg7etgoy5crobzjnt4uk3kkow?filename=Justin%20Seitz_%20Tim%20Arnold%20-%20Black%20Hat%20Python_%20Python%20Programming%20for%20Hackers%20and%20Pentesters-No%20Starch%20Press%20%282021%29.pdf)
 
 
 ## 4. Books (javascript)
